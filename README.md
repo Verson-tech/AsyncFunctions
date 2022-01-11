@@ -30,6 +30,19 @@ async function rainbow() {
 }
 ```
 
+```
+// rainbow().then(() => console.log("END OF RAINBOW!"))
+
+<!-- or -->
+
+async function printRainbow() {
+    await rainbow();
+    console.log("END OF RAINBOW!")
+}
+
+printRainbow();
+```
+
 ## [Click for the dev tools console](https://verson-tech.github.io/AsyncFunctions/)
 
 Lisence: 'The Web Developer Bootcamp 2022' (UDEMY)
