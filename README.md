@@ -30,4 +30,6 @@ async function rainbow() {
 }
 ```
 
+## [Click for the dev tools console](https://verson-tech.github.io/AsyncFunctions/)
+
 Lisence: 'The Web Developer Bootcamp 2022' (UDEMY)
